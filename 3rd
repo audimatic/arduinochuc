@@ -1,3 +1,5 @@
+//-* не законченное сердце
+
 #define NUM_LEDS 144
 #include "FastLED.h"
 #define PIN 6
