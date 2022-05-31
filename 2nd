@@ -20,7 +20,7 @@ void loop() {
   digitalWrite(LED3, HIGH);    // turn on LED3 
   delay(200);                  // wait for 200ms
   digitalWrite(LED1, LOW);     // turn off LED1
-  delay(300);                  // wait for 300ms
+  delay(300);                  // wait for 300m
   digitalWrite(LED2, LOW);     // turn off LED2
   delay(300);                  // wait for 300ms
   digitalWrite(LED3, LOW);     // turn off LED3
