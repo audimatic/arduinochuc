@@ -1,3 +1,5 @@
+//-* лампочка LED
+
 // Define the pin used for our LED
  int ledPin = 11;
  
